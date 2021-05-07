@@ -1,2 +1,2 @@
 # Python
-Python repo
+Python repo for learning github
